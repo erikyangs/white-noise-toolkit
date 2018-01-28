@@ -8,6 +8,7 @@ Random.org is an API that returns random numbers. Use these random numbers to cr
 
 ## Setup
 * Install Python 3.
+* Install Pillow: `pip install pillow`
 * Run app.py
 
 ## Potential Issues/Bugs
