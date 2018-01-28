@@ -10,6 +10,9 @@ Random.org is an API that returns random numbers. Use these random numbers to cr
 * Run app.py
 * Once run, `image.png` will be saved in directory and image will be shown on screen
 
+## Sample Image
+![Sample Image](https://github.com/erikyangs/white-noise-toolkit/blob/master/image.png)
+
 ## Potential Issues/Bugs
 * Proof of concept. Does not check for malicious inputs.
 * Assumes that random.org will work. Will throw HTTPError otherwise.
