@@ -12,4 +12,5 @@ Random.org is an API that returns random numbers. Use these random numbers to cr
 * Run app.py
 
 ## Potential Issues/Bugs
-* ...
+* Proof of concept. Does not check for malicious inputs.
+* Assumes that random.org will work. Will throw HTTPError otherwise.
